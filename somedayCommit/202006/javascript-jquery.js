@@ -25,4 +25,4 @@ $("#text").on("propertychange change keyup paste input", function() {
     oldVal = currentVal;
     alert("changed!");
 });
-//이건 다 된다는데 현재 개발중에서는 먹히지가 않음 
+//이건 다 된다는데 현재 개발중에서는 먹히지가 않음
